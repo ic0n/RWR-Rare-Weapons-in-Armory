@@ -13,13 +13,11 @@ $ cp -R RWR-Rare-Weapons-in-Armory/rare-weapons-in-armory  /path/to/game_root_di
 ```
 ### Windows
 I don't have a Windows PC. You gotta figure it out yourself...    
-<br/>  
-<br/>  
 
 Alright Just Kidding.
 
-The Real Installation 真正的安装方法
-----------------------------------
+The Real Installation Guide 真正的安装方法
+----------------------------------------
 
  To install this mod just copy the "rare-weapons-in-armory" folder in to RunningWithRifles/media/packages which locate in your steam/steamapp/common
 
@@ -31,15 +29,11 @@ The Real Installation 真正的安装方法
 - 如果你想在我的服务区上面玩的话就必须安装这个mod。    
 
 
+
 My RWR Server 我的RWR服务器
 --------------------------
 
-Location: Guangzhou, China
-Network: Tencent QCloud BGP
-IP: 119.29.164.164
-Port: 10005
-
-位置：中国，广州
-网络：腾讯集团BGP
-IP：119.29.164.164
-端口：10005
+  - Location: Guangzhou, China
+  - Network: Tencent QCloud BGP
+  - IP: 119.29.164.164
+  - Port: 10005
