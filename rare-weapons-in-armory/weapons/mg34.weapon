@@ -14,7 +14,7 @@
     name="MG-34"
     class="0"
     barrel_offset="0.4"
-    projectile_speed="120.0" />
+    projectile_speed="135.0" />
     <animation key="recoil" ref="12" />
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
@@ -36,7 +36,7 @@
 
     <weak_hand_hold offset="0.4" />
     <projectile file="bullet.projectile">
-        <result class="hit" kill_probability="0.75" kill_decay_start_time="0.50" kill_decay_end_time="1.35" />
+        <result class="hit" kill_probability="0.75" kill_decay_start_time="0.75" kill_decay_end_time="1.55" />
     </projectile>
 
     <capacity value="0" source="rank" source_value="0.0" />
