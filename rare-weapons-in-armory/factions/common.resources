@@ -28,6 +28,7 @@
     <weapon key='p90.weapon' />
     <weapon key='xm8.weapon' />
     <weapon key='mg42.weapon' />
+    <weapon key='mg34.weapon' />
     <weapon key='microgun.weapon' />
     <weapon key='chain_saw.weapon' />
 
