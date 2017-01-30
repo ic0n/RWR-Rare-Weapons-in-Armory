@@ -424,4 +424,5 @@
   <weapon file="m113_tank_cannon.weapon" />
   <weapon file="mortar_vulcan.weapon" />
 
+  <weapon file="tank_trap_resource.weapon"/>
 </weapons>
