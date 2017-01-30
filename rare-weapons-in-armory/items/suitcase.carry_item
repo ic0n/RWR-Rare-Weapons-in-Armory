@@ -5,5 +5,5 @@
 
     <model mesh_filename="suitcase.mesh" texture_filename="suitcase.png" />
 
-    <commonness value="3.0" in_stock="0" />
+    <commonness value="3.0" in_stock="1" />
 </carry_item>
