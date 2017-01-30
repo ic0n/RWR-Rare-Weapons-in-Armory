@@ -40,7 +40,7 @@
     </projectile>
 
     <capacity value="0" source="rank" source_value="0.0" />
-    <capacity value="1" source="rank" source_value="0.6" />
+    <capacity value="1" source="rank" source_value="1.0" />
     <stance state_key="crouch_moving" accuracy="0.4" />
     <stance state_key="crouching" accuracy="0.5" />
     <stance state_key="prone" accuracy="0.99" />
