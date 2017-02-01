@@ -14,7 +14,7 @@
   class="3"
   reload_one_at_a_time="1"
   sight_range_modifier="1.25"
-  projectile_speed="120.0"
+  projectile_speed="100.0"
   slot="1"
   projectiles_per_shot="1" />
     <animation key="recoil" ref="40" />
@@ -33,7 +33,7 @@
 
 <!--        <ballistics curve_height="10.0" near_far_distance="10.0" speed_estimation_near="80.0" speed_estimation_far="100.0" max_speed="100.0" randomness="0.0" tweak_factor="1.1" /> -->
 <!-- M79    <ballistics curve_height="6.0" near_far_distance="0.0" speed_estimation_near="9.0" speed_estimation_far="17.0" max_speed="30.0" randomness="0.0" tweak_factor="1.1" />   -->
-    <ballistics curve_height="50.0" near_far_distance="1.0" speed_estimation_near="10.0" speed_estimation_far="100.0" max_speed="200.0" randomness="0.0"/>
+    <ballistics curve_height="8.0" near_far_distance="0.0" speed_estimation_near="20.0" speed_estimation_far="40.0" max_speed="70.0" randomness="0.0" tweak_factor="1.1" />
 
 
     <projectile file="javelin.projectile" />
