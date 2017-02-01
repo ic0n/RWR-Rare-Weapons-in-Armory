@@ -21,7 +21,7 @@ The Real Installation Guide 真正的安装方法
 
 To install this mod just download the zip, extract, copy the "rare-weapons-in-armory" folder in to RunningWithRifles/media/packages which locate in your steam/steamapp/common
 
-添加mod的方法就是点击下载zip，直接把该压缩包里的文件夹复制到RunningWithRifles/media/packages下，RunningWithRifles这个是游戏主目录，这个会在你的steam/steamapp/common下
+添加mod的方法就是点击下载zip，直接把该压缩包里的"rare-weapons-in-armory"文件夹复制到RunningWithRifles/media/packages下，RunningWithRifles这个是游戏主目录，这个会在你的steam/steamapp/common下
 <br/>
 注
 --
