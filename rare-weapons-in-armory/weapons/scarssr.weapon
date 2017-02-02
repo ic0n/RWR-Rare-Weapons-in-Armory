@@ -11,7 +11,6 @@
 	suppressed="0"
 	name="SCAR SSR"
 	class="0"
-	burst_shots="1"
 	reload_one_at_a_time="0"
 	sight_range_modifier="1.5"
 	projectile_speed="170.0"
