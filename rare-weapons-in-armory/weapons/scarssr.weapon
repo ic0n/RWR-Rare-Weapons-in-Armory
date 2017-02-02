@@ -12,7 +12,7 @@
 	name="SCAR SSR"
 	class="0"
 	reload_one_at_a_time="0"
-	sight_range_modifier="1.5"
+	sight_range_modifier="1.65"
 	projectile_speed="170.0"
 	barrel_offset="0.55"
 	projectiles_per_shot="1" />
