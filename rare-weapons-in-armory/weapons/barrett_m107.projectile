@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<projectile class="bullet" name="Lahti L-39" slot="1" pulldown_in_air="4">
-    <result class="blast" radius="1.0" damage="0.6" push="0.3" decal="0" />
+<projectile class="bullet" name="Barrett M107" slot="1" pulldown_in_air="4">
+    <result class="blast" radius="0.5" damage="0.6" push="0.3" decal="0" />
     <trigger class="impact" />
     <rotation class="motion" />
 
@@ -41,19 +41,19 @@
     <sound class="result" key="static_object" copy="terrain" />
     <effect class="result" key="terrain" ref="Burst" use_surface_color="1" />
     <!--<effect class="result" key="terrain" ref="SmokeTop" post_processing="1" />-->
-    <!--<effect class="result" key="terrain" ref="Smoke" post_processing="1" />-->
-    <effect class="result" key="terrain" ref="Shine" lighting="1" />
-    <effect class="result" key="terrain" ref="Godray" lighting="1" size="1.0"/>
-    <effect class="result" key="terrain" ref="ShadowSmoke" shadow="1" />
+    <effect class="result" key="terrain" ref="Smoke" post_processing="1" />
+    <effect class="result" key="terrain" ref="Shine" lighting="1" size="0.1"/>
+    <effect class="result" key="terrain" ref="Godray" lighting="1" size="0.1"/>
+    <!--<effect class="result" key="terrain" ref="ShadowSmoke" shadow="1" />-->
     <effect class="result" type="splat_map" surface_tag="" size="1.0" atlas_index="0" layer="1" />
     <effect class="result" type="splat_map" surface_tag="" size="1.3" atlas_index="4" layer="0" />
     <effect class="result" type="splat_map" surface_tag="" size="2.0" atlas_index="0" layer="2" additive="0" /> <!-- remove top snow everywhere -->
 
     <!--<effect class="result" key="other" ref="SmokeTop" post_processing="1" />-->
-    <!--<effect class="result" key="other" ref="Smoke" post_processing="1" />-->
-    <effect class="result" key="other" ref="Shine" lighting="1" />
-    <effect class="result" key="other" ref="Godray" lighting="1" size="1.0"/>
-    <effect class="result" key="other" ref="ShadowSmoke" shadow="1" />
+    <effect class="result" key="other" ref="Smoke" post_processing="1" />
+    <effect class="result" key="other" ref="Shine" lighting="1" size="0.1"/>
+    <effect class="result" key="other" ref="Godray" lighting="1" size="0.1"/>
+    <!--<effect class="result" key="other" ref="ShadowSmoke" shadow="1" />-->
 
     <effect class="result" key="static_object" copy="terrain" />
     <effect class="result" key="vehicle" copy="terrain" />
