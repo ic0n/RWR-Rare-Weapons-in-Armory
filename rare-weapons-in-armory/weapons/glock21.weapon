@@ -11,7 +11,7 @@
 	can_shoot_standing="1"
     carry_in_two_hands="0"
 	suppressed="1"
-	name="Glock 17"
+	name="Glock 21"
 	class="4"
 	reload_one_at_a_time="0"
 	sight_range_modifier="1.0"
@@ -41,7 +41,7 @@
 
     <hud_icon filename="hud_glock17.png" />
     <commonness value="0.0" />
-    <inventory encumbrance="5.0" price="3.0" />
+    <inventory encumbrance="5.0" price="15.0" />
 
     <projectiles_per_shot value="1" />
     <weak_hand_hold offset="0.1" />
