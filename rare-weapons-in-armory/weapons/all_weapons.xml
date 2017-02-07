@@ -66,6 +66,7 @@
 
     <weapon file="pb.weapon" />
     <weapon file="glock17.weapon" />
+    <weapon file="glock21.weapon" />
     <weapon file="beretta_m9.weapon" />
 
 

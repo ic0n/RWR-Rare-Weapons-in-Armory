@@ -184,6 +184,11 @@
     <capacity source="rank" source_value="0.025" value="1" />
   </weapon>
 
+  <weapon file="glock21.weapon">
+    <capacity source="rank" source_value="0.0" value="0" />
+    <capacity source="rank" source_value="0.325" value="1" />
+  </weapon>
+
   <weapon file="pb.weapon">
     <capacity source="rank" source_value="0.0" value="0" />
     <capacity source="rank" source_value="0.025" value="1" />
