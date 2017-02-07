@@ -49,7 +49,7 @@
         <result class="hit"
 		kill_probability=".75"
 		kill_decay_start_time="0.4"
-		kill_decay_end_time="0.68" />
+		kill_decay_end_time="0.6" />
     </projectile>
 
     <stance state_key="running" accuracy="0.7" />
