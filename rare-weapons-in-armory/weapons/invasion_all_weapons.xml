@@ -200,6 +200,13 @@
     <capacity source="rank" source_value="0.4" value="1" />
   </weapon>
 
+  <weapon file="xm25_cdte.weapon">
+    <commonness value="0.0" can_respawn_with="1" in_stock="1" />
+    <inventory price="38.0" />
+    <capacity source="rank" source_value="0.0" value="0" />
+    <capacity source="rank" source_value="0.4" value="1" />
+  </weapon>
+
   <weapon file="desert_eagle.weapon">
     <capacity source="rank" source_value="0.0" value="0" />
     <capacity source="rank" source_value="0.1" value="1" />
