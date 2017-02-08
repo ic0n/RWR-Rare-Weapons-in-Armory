@@ -12,7 +12,7 @@
   suppressed="1"
   name="AAC Honey Badger"
   class="4"
-  projectile_speed="130.0"
+  projectile_speed="135.0"
   barrel_offset="0.4"
   burst_shots="3"/>
 
@@ -38,7 +38,7 @@
 
     <weak_hand_hold offset="0.2" />
     <projectile file="bullet.projectile">
-        <result class="hit"  kill_probability="0.68" kill_decay_start_time="0.40" kill_decay_end_time="0.72" />
+        <result class="hit"  kill_probability="0.76" kill_decay_start_time="0.40" kill_decay_end_time="0.72" />
     </projectile>
     <stance state_key="running" accuracy="0.4" />
     <stance state_key="walking" accuracy="0.7" />
