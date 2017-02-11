@@ -250,6 +250,11 @@
       <capacity source="rank" source_value="0.5" value="1" />
       <capacity source="rank" source_value="1.0" value="2" />
   </weapon>
+  <weapon file="m163_tank_resource.weapon" >
+      <capacity source="rank" source_value="0.0" value="0" />
+      <capacity source="rank" source_value="0.9" value="1" />
+      <capacity source="rank" source_value="1.1" value="2" />
+  </weapon>
 
   <weapon file="apc_hmg_1.weapon" />
   <weapon file="apc_hmg_2.weapon" />
@@ -316,6 +321,7 @@
   </weapon>
 
   <weapon file="vulcan_tank_mg.weapon" />
+  <weapon file="m168_vulcan.weapon" />
   <weapon file="buggy_mg.weapon" />
 
   <weapon file="model_29.weapon">

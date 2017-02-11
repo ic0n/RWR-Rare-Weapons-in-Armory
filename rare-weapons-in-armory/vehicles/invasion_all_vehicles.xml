@@ -76,4 +76,5 @@
   <vehicle file="atv_armory.vehicle" />
 
   <vehicle file="tank_trap.vehicle" />
+  <vehicle file="m163_tank.vehicle" />
 </vehicles>

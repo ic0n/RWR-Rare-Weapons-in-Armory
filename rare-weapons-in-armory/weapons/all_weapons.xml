@@ -141,5 +141,7 @@
     <weapon file="mk23.weapon" />
     <weapon file="honey_badger.weapon" />
   <weapon file="m60e4.weapon" />
+  <weapon file="vulcan_tank_resource.weapon"/>
+  <weapon file="tank2_resource.weapon"/>
 
 </weapons>
