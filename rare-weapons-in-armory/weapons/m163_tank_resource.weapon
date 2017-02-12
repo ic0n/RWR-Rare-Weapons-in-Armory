@@ -37,7 +37,7 @@
 
     <hud_icon filename="hud_tank.png" />
     <commonness value="0.0" can_respawn_with="0" />
-    <inventory encumbrance="11.0" price="1100.0" />
+    <inventory encumbrance="11.0" price="900.0" />
 
     <modifier class="speed" value="-0.4" />
 

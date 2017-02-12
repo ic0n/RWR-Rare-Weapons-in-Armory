@@ -14,7 +14,7 @@
     name="MG-34"
     class="0"
     barrel_offset="0.4"
-    projectile_speed="135.0" />
+    projectile_speed="140.0" />
     <animation key="recoil" ref="12" />
     <animation key="recoil" ref="13" />
     <animation key="recoil" ref="14" />
@@ -45,7 +45,7 @@
     <stance state_key="walking" accuracy="0.1" />
     <stance state_key="standing" accuracy="0.2" />
     <stance state_key="crouch_moving" accuracy="0.12" />
-    <stance state_key="crouching" accuracy="0.25" />
+    <stance state_key="crouching" accuracy="0.35" />
     <stance state_key="prone" accuracy="0.99" />
     <stance state_key="prone_moving" accuracy="0.07" />
     <stance state_key="over_wall" accuracy="0.92" />
