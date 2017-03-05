@@ -1,8 +1,8 @@
 # RWR-Rare-Weapons-in-Armory
-It's a mod required for my RWR server.
+It's a mod required for my RWR server.    
 这是一个连上我的服务器所需要的mod。
 
-A Running with Rifles game mod that change some weapons and make SOME OF the rare weapons show in armory     
+A Running with Rifles game mod that change some weapons and make SOME OF the rare weapons show in armory.     
 一个修改了RWR部分武器并部分稀有武器可以在商店购买的mod（暂时放到GitHub）
 
 Installation 安装方法
